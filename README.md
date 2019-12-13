@@ -68,4 +68,3 @@ Now you should be redirected to the App Settings -
 
 &copy; 2019 LinkedIn
 
-
